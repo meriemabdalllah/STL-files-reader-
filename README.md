@@ -1,2 +1,3 @@
 # STL-files-reader-
-Retrieve the limits and dimensions of an stl model
+This small application, developped in c++, allows the retrive of limits  , dimensions ,number of triangle  and 
+number of vertices of an stl ascii model
